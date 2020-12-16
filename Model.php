@@ -1,12 +1,12 @@
 <?php 
 
-namespace app\core;
+namespace sksaju\phpmvc;
 
 /**  
  * Class Model 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core
+ * @package sksaju\phpmvc
  */
 
 abstract class Model

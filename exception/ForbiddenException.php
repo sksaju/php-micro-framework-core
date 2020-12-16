@@ -1,12 +1,12 @@
 <?php 
 
-namespace app\core\exception;
+namespace sksaju\phpmvc\exception;
 
 /**  
  * Class ForbiddenException 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core\exception
+ * @package sksaju\phpmvc\exception
  */
 
 class ForbiddenException extends \Exception

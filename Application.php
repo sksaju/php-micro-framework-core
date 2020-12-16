@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core;
+namespace sksaju\phpmvc;
 
 use app\controllers\Controller;
-use app\core\db\Database;
+use sksaju\phpmvc\db\Database;
 
 /**  
  * Class Application 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core
+ * @package sksaju\phpmvc
  */
 
 class Application

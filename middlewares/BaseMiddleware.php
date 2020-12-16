@@ -1,12 +1,12 @@
 <?php 
 
-namespace app\core\middlewares;
+namespace sksaju\phpmvc\middlewares;
 
 /**  
  * Class BaseMiddleware 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core\middlewares
+ * @package sksaju\phpmvc\middlewares
  */
 
 abstract class BaseMiddleware

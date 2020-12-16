@@ -1,14 +1,14 @@
 <?php 
 
-namespace app\core\form;
+namespace sksaju\phpmvc\form;
 
-use app\core\Model;
+use sksaju\phpmvc\Model;
 
 /**  
  * Class Field 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core\form
+ * @package sksaju\phpmvc\form
  */
 
 class InputField extends BaseField

@@ -1,12 +1,12 @@
 <?php 
 
-namespace app\core;
+namespace sksaju\phpmvc;
 
 /**  
  * Class Request 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core
+ * @package sksaju\phpmvc
  */
 
 class Request

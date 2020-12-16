@@ -1,15 +1,15 @@
 <?php 
 
-namespace app\core\middlewares;
+namespace sksaju\phpmvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use sksaju\phpmvc\Application;
+use sksaju\phpmvc\exception\ForbiddenException;
 
 /**  
  * Class AuthMiddleware 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core\middlewares
+ * @package sksaju\phpmvc\middlewares
  */
 
 class AuthMiddleware extends BaseMiddleware

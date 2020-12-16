@@ -1,14 +1,14 @@
 <?php 
 
-namespace app\core;
+namespace sksaju\phpmvc;
 
-use app\core\db\DbModel;
+use sksaju\phpmvc\db\DbModel;
 
 /**  
  * Class UserModel 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core
+ * @package sksaju\phpmvc
  */
 
 abstract class UserModel extends DbModel

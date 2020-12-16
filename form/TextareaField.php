@@ -1,12 +1,12 @@
 <?php 
 
-namespace app\core\form;
+namespace sksaju\phpmvc\form;
 
 /**  
  * Class TextareaField 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core\form
+ * @package sksaju\phpmvc\form
  */
 
 class TextareaField extends BaseField

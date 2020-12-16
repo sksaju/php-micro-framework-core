@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core\db;
+namespace sksaju\phpmvc\db;
 
-use app\core\Application;
+use sksaju\phpmvc\Application;
 use PDO;
 
 /**  
  * Class Database 
  * 
  * @author SkSaju <sksaaju@gmail.com>
- * @package app\core
+ * @package sksaju\phpmvc
  */
 
 class Database

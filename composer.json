@@ -6,5 +6,10 @@
             "email": "sksaaju@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "sksaju\\phpmvc\\": "./"
+        }
+    },
     "require": {}
 }
