@@ -1,0 +1,10 @@
+{
+    "name": "sksaju/php-micro-framework-core",
+    "authors": [
+        {
+            "name": "sksaju",
+            "email": "sksaaju@gmail.com"
+        }
+    ],
+    "require": {}
+}
